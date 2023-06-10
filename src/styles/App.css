@@ -10,3 +10,21 @@ button{
     justify-content: center;
     align-items: center;
 }
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.legend{
+    color:#0000ff;
+}
+ .error{
+   display: flex;
+   justify-content: center;
+   
+   object-fit: contain;
+     color: red;
+     font-size: 17px;
+     font-weight: 400;
+     
+}
